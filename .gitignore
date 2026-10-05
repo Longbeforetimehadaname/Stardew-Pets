@@ -12,3 +12,6 @@ node_modules/
 .vscode-test/
 .vscode-test-web/
 .vscode/extensions.json
+
+# Personal notes
+CODEBASE_OVERVIEW.md
